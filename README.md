@@ -7,6 +7,6 @@
 
 下面是成果展示：
 
-![](https://cdn.jsdelivr.net/gh/NicknamedCoco/GetVirusData/世界各国疫情感染人数.png)
-![](https://cdn.jsdelivr.net/gh/NicknamedCoco/GetVirusData/世界各国疫情死亡人数.png)
+![](https://cdn.jsdelivr.net/gh/NicknamedCoco/GetVirusData/疫情期间各国确诊人数.png)
+![](https://cdn.jsdelivr.net/gh/NicknamedCoco/GetVirusData/疫情期间各国死亡人数.png)
 
